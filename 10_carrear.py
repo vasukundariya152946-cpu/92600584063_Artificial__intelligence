@@ -1,3 +1,6 @@
+# 10. Develop any Rule based system for an application of your choice. 
+# Name:- Kundariya Vasu 
+ # Enrollment No :- 92600584063
 
 print("======================================")
 print(" CAREER GUIDANCE SYSTEM")

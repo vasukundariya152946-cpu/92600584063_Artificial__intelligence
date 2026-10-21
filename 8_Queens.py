@@ -1,3 +1,7 @@
+# 8. Write a program to solve N-Queens problem. 
+# Name:- Kundariya Vasu 
+ # Enrollment No :- 92600584063
+
 # no  two queens can be in the smae Rpw 
 # mo two queens can be in the same colums , 
 # no two queens can be omn the same dialog

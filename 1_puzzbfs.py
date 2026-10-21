@@ -1,3 +1,7 @@
+# 1. Implement Breadth First Search (for 8 puzzle problem).
+# Name:- Kundariya Vasu 
+# Enrollment No :- 92600584063
+
 # goal stare
 goal =(1,2,3,
        4,5,6,

@@ -1,3 +1,7 @@
+# 11. Develop an Expert system for medical diagnosis.
+#  Name:- Kundariya Vasu 
+#  Enrollment No :- 92600584063
+
 print('--------------Expert System------------------')
 
 print('Answer the following question in yes or no.')
@@ -14,7 +18,7 @@ if(F=='no' and C=='no' and HA=='no'):
 elif(F=='yes' and C=='no' and HA=='no'):
     print('You may have a Mild Infection.')
     
-elif(F=='no' and C==yes and HA=='no'):
+elif(F=='no' and C=='yes' and HA=='no'):
     print('You may have a Throat Infection or Mild cold.')
     
 elif(F=='no' and C=='no' and HA=='yes'):

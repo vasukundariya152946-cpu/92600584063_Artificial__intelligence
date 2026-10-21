@@ -1,3 +1,7 @@
+# 7. Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).
+ # Name:- Kundariya Vasu 
+ # Enrollment No :- 92600584063
+
 # TEO PLAYER GAME -TIC-TAC-TOE 
 # USING HEurustic function
 

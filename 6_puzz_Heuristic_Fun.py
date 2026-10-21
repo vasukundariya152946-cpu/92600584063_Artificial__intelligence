@@ -1,4 +1,6 @@
-
+# 6. Write a program to implement Single Player Game (Using Heuristic Function).
+ # Name:- Kundariya Vasu 
+ # Enrollment No :- 92600584063
 # Goal state
 goal = (1,2,3,
         4,5,6,
